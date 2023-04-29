@@ -1,0 +1,16 @@
+.source{
+    background: #AAF8C8;
+    display: flex;
+    border: 2px solid #112A46;
+    }
+#logo-img{
+margin-left: 4px;
+    width: 100px;
+}
+.show{
+    background-image: url("BARCH.jpeg");
+    background-size: cover;
+}
+h2{
+    color: #d7f9ff;
+}

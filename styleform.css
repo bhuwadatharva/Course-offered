@@ -1,0 +1,40 @@
+body{
+    background: #68b684;
+    margin:0px;
+}
+.source{
+    background: #AAF8C8;
+    display: flex;
+    border: 2px solid #112A46;
+    }
+#logo-img{
+margin-left: 4px;
+    width: 100px;
+}
+#font{
+    
+    color:#112A46;
+    margin-left:20px;
+    font-style: Bold;
+}
+.form{
+    background: #acdde7;
+    border:2px solid #112A46;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+#btn{
+     background: #d6ffb7;
+     margin: 10px 0px;
+    padding: 5px;
+    border-radius: 4px;
+    font-weight: 200px;
+}
+.text{
+    margin-left: 10px;
+}
+.button-wrapper{
+    margin-bottom:4px;
+    margin-top: 8px;
+}
